@@ -1,0 +1,78 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  background-image: url("../images/lisa_flournoy.jpg");
+background-size:cover;
+background-position-y: -100px;
+background-repeat: no-repeat;
+}
+
+ 
+ .jumbotron h1 {
+	font-family:  'Arvo', courier, serif;
+	}
+
+ul.nav {
+	font-size: : 13px;
+}
+.jumbotron {
+text-align: center;
+background-color: transparent;
+
+color:black;
+margin-bottom:0px;
+
+
+		  }
+
+.jumbotron h1 {
+
+	font-family: 'Roboto Condensed', sans-serif; }
+
+.jumbotron h1 {
+	font-family: 'Arvo', courier, serif;
+	
+}
+.jumbotron h2{
+	color:white;
+	font-size: 20px;
+}
+
+.jumbotron h1 {
+	margin-bottom: 0px;
+	margin-top: :50px;
+}
+.jumbotron p {
+	margin-bottom: 30px;
+	font-weight: 100px;
+	padding: 0 50px;
+}
+
+ .navbar {
+ 	background-color: rgba(52, 152, 219,.4) ;
+
+ }
+
+
+.navbar-inverse .navbar-brand{
+	text-align: center;
+	color:ghostwhite;
+}
+
+.text {
+	background-color:transparent;
+	width: 60%;
+float: right;
+margin-top: 320px;
+
+}
+
+.jumbotron .container {
+	padding-right: :0px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color:grey;
+}
+}
+
